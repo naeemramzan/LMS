@@ -1,0 +1,5 @@
+{
+  "name": "University of Sindh Website Clone",
+  "description": "A modern, responsive clone of the University of Sindh's official website, built with React, TypeScript, and Tailwind CSS. This project showcases a clean UI/UX with key sections like news, faculties, and campus life highlights.",
+  "requestFramePermissions": []
+}
